@@ -215,6 +215,10 @@ img {
 
 /* Active link */
 
+.active-link{
+  color: var(--second-color);
+}
+
 /*=============== HOME ===============*/
 
 .home__container {
